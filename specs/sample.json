@@ -1,0 +1,6 @@
+{"post_id":"sample-mustard","theme":"mustard","slides":[
+ {"type":"cover","kicker":"Side hustle tax","title":"Sold on Vinted this year?","sub":"Here's when the app tells HMRC about you.","badge":"Explained by a Chartered Accountant"},
+ {"type":"point","number":"1","title":"Selling your own old stuff is usually fine","body":["Clearing out your wardrobe is not a business.","Buying to sell on is different."]},
+ {"type":"example","title":"The £1,000 rule uses sales, not profit","rows":[["Sales","£1,200"],["Costs","£500"],["Profit","£700"]],"result":"Sales are still over £1,000, so you need to tell HMRC.","note":"Assumes you are trading, not selling personal belongings. 2026/27 rules."},
+ {"type":"cta","title":"Got a question like this?","body":["Ask Hustle Mate.","Plain English answers, backed by a Chartered Accountant."],"button":"Free for 3 days. Link in bio"}
+]}
