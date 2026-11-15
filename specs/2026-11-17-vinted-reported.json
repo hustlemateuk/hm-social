@@ -1,0 +1,53 @@
+{
+ "post_id": "2026-11-17-vinted-reported",
+ "theme": "paper",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Online selling",
+   "title": "Vinted told HMRC about your sales?",
+   "sub": "Being reported is not the same as owing tax. Here is the difference.",
+   "badge": "Explained by a Chartered Accountant"
+  },
+  {
+   "type": "point",
+   "number": "1",
+   "title": "Who gets reported",
+   "body": [
+    "Selling sites now report sellers to HMRC.",
+    "The rules started on 1 January 2024.",
+    "You are not reported if you make fewer than 30 sales of goods in a calendar year.",
+    "And get less than about £1,700 (2,000 euros) for them."
+   ]
+  },
+  {
+   "type": "point",
+   "number": "2",
+   "title": "Reported does not mean you owe",
+   "body": [
+    "HMRC says a report does not automatically mean tax is due.",
+    "Clearing out your loft or wardrobe?",
+    "You are unlikely to pay tax on personal items."
+   ]
+  },
+  {
+   "type": "point",
+   "number": "3",
+   "title": "When it becomes trading",
+   "body": [
+    "Buying or making things to sell for a profit is likely trading.",
+    "Total sales up to £1,000 a year are covered by the trading allowance.",
+    "Over £1,000 and you need to register for Self Assessment."
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Not sure which side you're on?",
+   "body": [
+    "Ask Hustle Mate and get a plain-English answer.",
+    "Backed by a real Chartered Accountant."
+   ],
+   "button": "Try free for 3 days"
+  }
+ ]
+}

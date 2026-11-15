@@ -1,0 +1,53 @@
+{
+ "post_id": "2026-11-16-file-by-30-dec",
+ "theme": "mustard",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Side hustle tax",
+   "title": "Employed with a side hustle? Read this",
+   "sub": "File online by 30 December and HMRC may collect your bill through your payslip.",
+   "badge": "Explained by a Chartered Accountant"
+  },
+  {
+   "type": "point",
+   "number": "1",
+   "title": "The 30 December rule",
+   "body": [
+    "You owe less than £3,000.",
+    "You already pay tax through PAYE, for example as an employee.",
+    "You file your return online by 30 December.",
+    "Then the tax can be collected through your tax code."
+   ]
+  },
+  {
+   "type": "point",
+   "number": "2",
+   "title": "Start this weekend",
+   "body": [
+    "Find your UTR and your HMRC sign-in.",
+    "Add up your total sales and your costs.",
+    "Open the return and save as you go."
+   ]
+  },
+  {
+   "type": "point",
+   "number": "3",
+   "title": "The dates that matter",
+   "body": [
+    "30 Dec: file online to pay through your tax code.",
+    "31 Jan 2027: last day to file online.",
+    "31 Jan 2027: last day to pay what you owe."
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Stuck on a box?",
+   "body": [
+    "Ask Hustle Mate in plain English.",
+    "Backed by a real Chartered Accountant."
+   ],
+   "button": "Try free for 3 days"
+  }
+ ]
+}

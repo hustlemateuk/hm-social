@@ -166,7 +166,8 @@ def slide_example(img, d, t, s):
     y = top
     f, lines, size, step = fit(d, s.get("title", "Worked example"), "display", W - 2 * M, 190, 68, 46, 1.1)
     y = put(d, M, y, lines, f, step, t["fg"]) + 36
-    rows = s.get("rows", [])
+    # rows may be [label, value] pairs or {"label": ..., "value": ...} objects
+    rows = [(r["label"], r["value"]) if isinstance(r, dict) else tuple(r) for r in s.get("rows", [])]
     rh = 96 if len(rows) <= 4 else 80
     fr, fb = font("body", 42 if rh == 96 else 36), font("bold", 44 if rh == 96 else 38)
     ph = rh * len(rows) + 28

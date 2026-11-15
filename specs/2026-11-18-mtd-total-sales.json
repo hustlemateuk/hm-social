@@ -1,0 +1,74 @@
+{
+ "post_id": "2026-11-18-mtd-total-sales",
+ "theme": "ink",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "MTD myth",
+   "title": "Under £30,000 profit? MTD may still apply",
+   "sub": "The April 2027 test uses your total sales, not your profit.",
+   "badge": "Explained by a Chartered Accountant"
+  },
+  {
+   "type": "point",
+   "number": "1",
+   "title": "£30,000 from 6 April 2027",
+   "body": [
+    "Making Tax Digital for Income Tax widens next April.",
+    "It applies if your qualifying income was over £30,000.",
+    "HMRC looks at your 2025/26 tax return."
+   ]
+  },
+  {
+   "type": "point",
+   "number": "2",
+   "title": "It's total sales, not profit",
+   "body": [
+    "Qualifying income is self-employment and property income.",
+    "It is the amount before expenses.",
+    "Your wages from a job do not count."
+   ]
+  },
+  {
+   "type": "example",
+   "title": "Worked example",
+   "rows": [
+    [
+     "Total sales 2025/26",
+     "£34,000"
+    ],
+    [
+     "Expenses",
+     "£12,000"
+    ],
+    [
+     "Profit",
+     "£22,000"
+    ],
+    [
+     "Qualifying income",
+     "£34,000"
+    ]
+   ],
+   "result": "Over £30,000, so MTD applies from 6 April 2027.",
+   "note": "Self-employed only, no property income, 2025/26 figures."
+  },
+  {
+   "type": "point",
+   "number": "3",
+   "title": "Next step down: £20,000",
+   "body": [
+    "From 6 April 2028 the line drops to £20,000.",
+    "That uses your 2026/27 tax return."
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Does MTD catch you?",
+   "body": [
+    "Ask Hustle Mate and check in plain English."
+   ],
+   "button": "Try free for 3 days"
+  }
+ ]
+}

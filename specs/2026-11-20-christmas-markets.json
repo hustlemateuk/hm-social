@@ -1,0 +1,75 @@
+{
+ "post_id": "2026-11-20-christmas-markets",
+ "theme": "paper",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Craft fair season",
+   "title": "Selling at a Christmas market this year?",
+   "sub": "The £1,000 tax-free allowance is on your total sales, not your profit.",
+   "badge": "Explained by a Chartered Accountant"
+  },
+  {
+   "type": "point",
+   "number": "1",
+   "title": "The £1,000 trading allowance",
+   "body": [
+    "Total sales of £1,000 or less a year are usually tax-free.",
+    "It is total sales before costs.",
+    "Keep records either way."
+   ]
+  },
+  {
+   "type": "point",
+   "number": "2",
+   "title": "Over £1,000? Pick one",
+   "body": [
+    "Take off your real costs.",
+    "Or take off the £1,000 allowance instead.",
+    "You can't do both."
+   ]
+  },
+  {
+   "type": "example",
+   "title": "Worked example",
+   "rows": [
+    [
+     "Total sales",
+     "£1,400"
+    ],
+    [
+     "Stall fees and materials",
+     "£600"
+    ],
+    [
+     "Taxable using real costs",
+     "£800"
+    ],
+    [
+     "Taxable using £1,000 allowance",
+     "£400"
+    ]
+   ],
+   "result": "The allowance gives the lower figure: £400 to report.",
+   "note": "No other trading income, 2026/27 tax year, illustration only."
+  },
+  {
+   "type": "point",
+   "number": "3",
+   "title": "What about the £3,000?",
+   "body": [
+    "The allowance is due to rise to £3,000.",
+    "That is planned from 6 April 2027, and not yet law.",
+    "Christmas 2026 sales still use £1,000."
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Not sure if you need to register?",
+   "body": [
+    "Ask Hustle Mate in plain English."
+   ],
+   "button": "Try free for 3 days"
+  }
+ ]
+}

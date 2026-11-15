@@ -1,0 +1,52 @@
+{
+ "post_id": "2026-11-21-sole-trader-vs-ltd",
+ "theme": "ink",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Business basics",
+   "title": "Sole trader or limited company?",
+   "sub": "What each one actually means, in plain English."
+  },
+  {
+   "type": "point",
+   "number": "1",
+   "title": "Sole trader",
+   "body": [
+    "You and the business are the same.",
+    "You are personally responsible for all its debts.",
+    "You pay Income Tax through Self Assessment.",
+    "No Corporation Tax."
+   ]
+  },
+  {
+   "type": "point",
+   "number": "2",
+   "title": "Limited company",
+   "body": [
+    "The company is legally separate from its owners.",
+    "It pays Corporation Tax on its profits.",
+    "There are rules on taking money out."
+   ]
+  },
+  {
+   "type": "point",
+   "number": "3",
+   "title": "A director's yearly jobs",
+   "body": [
+    "Prepare annual accounts.",
+    "File a Company Tax Return and pay Corporation Tax.",
+    "Check your details with Companies House each year (confirmation statement)."
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Weighing it up?",
+   "body": [
+    "There is no one right answer for everyone.",
+    "Ask Hustle Mate to understand the trade-offs."
+   ],
+   "button": "Try free for 3 days"
+  }
+ ]
+}
