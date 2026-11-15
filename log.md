@@ -10,4 +10,4 @@ One line per post scheduled: date, time, networks, topic, sources checked.
 - 2026-11-21 10:00 | tiktok | Sole trader vs limited company basics | gov.uk become-sole-trader, running-a-limited-company
 - 2026-11-17 18:00 | tiktok, instagram, youtube | Promo video: Vinted hook (22s ad cut) | real app footage, GOV.UK checked on screen
 - 2026-11-19 18:00 | tiktok, instagram, youtube | Promo video: 11:47pm hook (22s ad cut) | real app footage, HMRC and GOV.UK checked on screen
-- 2026-11-22 18:00 | tiktok, instagram, youtube | Promo video: Tax return helper (22s ad cut) | real app footage, 31 Jan 2027 deadline
+- 2026-11-22 18:00 | tiktok, instagram, youtube | Promo video: Tax return helper v2 (22s, end card without price) | real app footage, 31 Jan 2027 deadline
