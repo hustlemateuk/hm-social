@@ -11,3 +11,9 @@ One line per post scheduled: date, time, networks, topic, sources checked.
 - 2026-11-17 18:00 | tiktok, instagram, youtube | Promo video: Vinted hook (22s ad cut) | real app footage, GOV.UK checked on screen
 - 2026-11-19 18:00 | tiktok, instagram, youtube | Promo video: 11:47pm hook (22s ad cut) | real app footage, HMRC and GOV.UK checked on screen
 - 2026-11-22 18:00 | tiktok, instagram, youtube | Promo video: Tax return helper v2 (22s, end card without price) | real app footage, 31 Jan 2027 deadline
+- 2026-11-24 18:00 | tiktok, instagram, facebook | Payments on account: the bigger first January bill | sources checked 2026-11-22: gov.uk payments-on-account, deadlines
+- 2026-11-25 18:00 | tiktok | Allowable expenses: what you can and can't claim | sources checked 2026-11-22: gov.uk expenses-if-youre-self-employed (+travel, clothing)
+- 2026-11-26 12:00 | tiktok, instagram, facebook | HMRC refund scams: how to spot and report | sources checked 2026-11-22: gov.uk news nearly-2000-self-assessment-scams-reported
+- 2026-11-27 12:00 | tiktok | Missed the 5 October registration date | sources checked 2026-11-22: gov.uk register-sole-trader, find-utr-number, deadlines
+- 2026-11-28 10:00 | tiktok | Platform reporting: what Vinted, eBay and Etsy share | sources checked 2026-11-22: gov.uk selling-goods-or-services-on-a-digital-platform, tax-free-allowances
+- 2026-11-29 10:00 | tiktok | Working from home: claiming part of your bills | sources checked 2026-11-22: gov.uk expenses-if-youre-self-employed

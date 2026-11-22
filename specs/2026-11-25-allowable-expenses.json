@@ -1,0 +1,71 @@
+{
+ "post_id": "2026-11-25-allowable-expenses",
+ "theme": "paper",
+ "slides": [
+  {
+   "badge": "Explained by a Chartered Accountant",
+   "kicker": "Expenses",
+   "sub": "Allowable expenses come off your total sales before tax is worked out.",
+   "title": "Paying tax on costs you could claim?",
+   "type": "cover"
+  },
+  {
+   "body": [
+    "Office costs, like stationery and phone bills.",
+    "Travel, like fuel, parking and train fares.",
+    "Stock you buy to sell on.",
+    "Insurance, bank charges and advertising."
+   ],
+   "number": "1",
+   "title": "Costs you can usually claim",
+   "type": "point"
+  },
+  {
+   "body": [
+    "Phone bill £200, with £70 business use?",
+    "You claim the £70 only."
+   ],
+   "number": "2",
+   "title": "Business use only",
+   "type": "point"
+  },
+  {
+   "body": [
+    "Everyday clothes, even if you wear them for work.",
+    "Travel between home and your usual workplace.",
+    "Fines and penalty charges."
+   ],
+   "number": "3",
+   "title": "Costs you can't claim",
+   "type": "point"
+  },
+  {
+   "note": "Sole trader, figures from HMRC's own example. Using the £1,000 trading allowance means you can't claim expenses as well.",
+   "result": "Income Tax is worked out on £30,000, not £40,000.",
+   "rows": [
+    [
+     "Total sales",
+     "£40,000"
+    ],
+    [
+     "Allowable expenses",
+     "£10,000"
+    ],
+    [
+     "Taxable profit",
+     "£30,000"
+    ]
+   ],
+   "title": "Worked example",
+   "type": "example"
+  },
+  {
+   "body": [
+    "Ask Hustle Mate and get a plain-English answer."
+   ],
+   "button": "Try free for 3 days",
+   "title": "Not sure if it counts?",
+   "type": "cta"
+  }
+ ]
+}

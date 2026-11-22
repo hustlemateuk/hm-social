@@ -1,0 +1,74 @@
+{
+ "post_id": "2026-11-24-payments-on-account",
+ "theme": "mustard",
+ "slides": [
+  {
+   "badge": "Explained by a Chartered Accountant",
+   "kicker": "January bill",
+   "sub": "Payments on account can add half a year's tax on top. Here is how it works.",
+   "title": "First tax return? Your January bill could be bigger",
+   "type": "cover"
+  },
+  {
+   "body": [
+    "They are payments towards your next tax bill.",
+    "Each one is half of the tax you owed last year.",
+    "They are due by 31 January and 31 July."
+   ],
+   "number": "1",
+   "title": "What payments on account are",
+   "type": "point"
+  },
+  {
+   "body": [
+    "Your last bill was less than £1,000.",
+    "Or you paid more than 80% of your tax outside Self Assessment, for example through your tax code."
+   ],
+   "number": "2",
+   "title": "When you don't pay them",
+   "type": "point"
+  },
+  {
+   "note": "First year in Self Assessment, no payments on account made before, under 80% of tax paid at source. Illustration only.",
+   "result": "£3,600 to pay by 31 January 2027, not £2,400.",
+   "rows": [
+    [
+     "Tax bill for 2025/26",
+     "£2,400"
+    ],
+    [
+     "First payment on account (half)",
+     "£1,200"
+    ],
+    [
+     "Due by 31 Jan 2027",
+     "£3,600"
+    ],
+    [
+     "Second payment, due 31 Jul 2027",
+     "£1,200"
+    ]
+   ],
+   "title": "Worked example: first year",
+   "type": "example"
+  },
+  {
+   "body": [
+    "You can ask HMRC to reduce your payments on account.",
+    "If you reduce them too far, you pay interest on the difference."
+   ],
+   "number": "3",
+   "title": "If your income is going down",
+   "type": "point"
+  },
+  {
+   "body": [
+    "Ask Hustle Mate in plain English.",
+    "Backed by a real Chartered Accountant."
+   ],
+   "button": "Try free for 3 days",
+   "title": "Not sure what you'll owe?",
+   "type": "cta"
+  }
+ ]
+}

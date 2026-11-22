@@ -1,0 +1,56 @@
+{
+ "post_id": "2026-11-29-working-from-home",
+ "theme": "ink",
+ "slides": [
+  {
+   "badge": "Explained by a Chartered Accountant",
+   "kicker": "Home office",
+   "sub": "You can claim a fair share of some household bills. Here is HMRC's own example.",
+   "title": "Run your side hustle from home?",
+   "type": "cover"
+  },
+  {
+   "body": [
+    "Heating and electricity.",
+    "Council Tax.",
+    "Mortgage interest or rent.",
+    "Internet and phone."
+   ],
+   "number": "1",
+   "title": "What you can share",
+   "type": "point"
+  },
+  {
+   "note": "HMRC's example. Use a reasonable way of splitting costs. Only one day a week at home would be £40 (£280 ÷ 7).",
+   "result": "£280 of electricity can be claimed as a business cost.",
+   "rows": [
+    [
+     "Electricity for the year",
+     "£1,120"
+    ],
+    [
+     "Rooms in the home",
+     "4"
+    ],
+    [
+     "Room used only as an office",
+     "1"
+    ],
+    [
+     "Business share (£1,120 ÷ 4)",
+     "£280"
+    ]
+   ],
+   "title": "Worked example",
+   "type": "example"
+  },
+  {
+   "body": [
+    "Ask Hustle Mate in plain English."
+   ],
+   "button": "Try free for 3 days",
+   "title": "Not sure how to split yours?",
+   "type": "cta"
+  }
+ ]
+}

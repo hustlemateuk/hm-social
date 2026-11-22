@@ -1,0 +1,61 @@
+{
+ "post_id": "2026-11-28-what-vinted-tells-hmrc",
+ "theme": "paper",
+ "slides": [
+  {
+   "badge": "Explained by a Chartered Accountant",
+   "kicker": "Online selling",
+   "sub": "The exact details selling sites share, and why it doesn't mean you owe tax.",
+   "title": "What does Vinted actually tell HMRC?",
+   "type": "cover"
+  },
+  {
+   "body": [
+    "The rules started on 1 January 2024.",
+    "You're not reported if you make fewer than 30 sales in a calendar year.",
+    "And get less than about £1,700 (2,000 euros) for them."
+   ],
+   "number": "1",
+   "title": "Who gets reported",
+   "type": "point"
+  },
+  {
+   "body": [
+    "Your full name, home address and date of birth.",
+    "Your National Insurance number.",
+    "Your total for the year, less fees, split into quarters."
+   ],
+   "number": "2",
+   "title": "What they send",
+   "type": "point"
+  },
+  {
+   "body": [
+    "The site has to give you a copy of what it sent.",
+    "Being reported does not automatically mean you owe tax."
+   ],
+   "number": "3",
+   "title": "You get a copy",
+   "type": "point"
+  },
+  {
+   "body": [
+    "Selling your own things from home? You're unlikely to pay tax.",
+    "Buying or making things to sell at a profit is likely trading.",
+    "Trading sales up to £1,000 a year are covered by the trading allowance."
+   ],
+   "number": "4",
+   "title": "Clear-out or trading?",
+   "type": "point"
+  },
+  {
+   "body": [
+    "Ask Hustle Mate and get a plain-English answer.",
+    "Backed by a real Chartered Accountant."
+   ],
+   "button": "Try free for 3 days",
+   "title": "Which side are you on?",
+   "type": "cta"
+  }
+ ]
+}

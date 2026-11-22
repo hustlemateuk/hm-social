@@ -1,0 +1,50 @@
+{
+ "post_id": "2026-11-26-hmrc-refund-scams",
+ "theme": "ink",
+ "slides": [
+  {
+   "badge": "Explained by a Chartered Accountant",
+   "kicker": "Scam warning",
+   "sub": "HMRC says it never tells you about a refund by email, text or phone.",
+   "title": "Text says HMRC owes you a refund?",
+   "type": "cover"
+  },
+  {
+   "body": [
+    "1,704 Self Assessment scams were reported to HMRC in 12 months.",
+    "Around 900 were linked to one tax refund scam."
+   ],
+   "number": "1",
+   "title": "The numbers",
+   "type": "point"
+  },
+  {
+   "body": [
+    "Emails, texts or rings to say you're due a refund.",
+    "Asks for personal or financial details by email or text.",
+    "Leaves threatening voicemails about arrest."
+   ],
+   "number": "2",
+   "title": "HMRC never",
+   "type": "point"
+  },
+  {
+   "body": [
+    "Forward scam emails to phishing@hmrc.gov.uk.",
+    "Forward scam texts to 60599.",
+    "Claim any real refund on GOV.UK or the HMRC app."
+   ],
+   "number": "3",
+   "title": "What to do",
+   "type": "point"
+  },
+  {
+   "body": [
+    "Got a tax question? Ask Hustle Mate in plain English."
+   ],
+   "button": "Try free for 3 days",
+   "title": "Send this to someone filing soon",
+   "type": "cta"
+  }
+ ]
+}
